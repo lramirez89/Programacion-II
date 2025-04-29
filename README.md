@@ -1,6 +1,6 @@
 ## ROGRAMACIÓN II - 2025
 ### TPS RESUELTOS
-#### Comisiones:
+#### Comisiones
 
 * 124
 * 321
